@@ -1,0 +1,46 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ }
+
+
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ li{
+    display: inline-block;
+    background-color: #00FFFF;
+    border-radius: 20px;
+    border: Solid 1px #000;
+    width: 175px;
+    height: 18px;
+    padding: 10px;
+    margin: 10px;
+ }
+
+ img{
+    width: 24%;
+    padding: 12px;
+    border: dotted 4px #BEEEEF;
+    box-sizing: border-box;
+ }
+
+ p{
+    color: blue;
+    background-color: lightyellow;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 20px;
+    border: Solid 1px blue;
+ }
+
+
